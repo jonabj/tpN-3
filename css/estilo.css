@@ -1,0 +1,27 @@
+body { background-color: #848484;}
+ul { color: blue;text-align: center;}
+ol { color: brown;text-align: center;}
+h1 { color: white;}
+h2 {color: white; text-align: center;}
+h3 {color: white;}
+.Descripcion {color: #81DAF5;}
+.canal {color: red;text-align: center;}
+.Descripcion {text-align: center;}
+
+#titulo1 {text-align: center;}
+#abajo {text-align:center;}
+
+
+ header {background-color: #585858;border-radius: 100%}
+ nav {background-color: #1C1C1C;border: 4px dotted red;}
+ section {background-color: #151515;}
+ aside {background-color: #151515;}
+ footer {background-color: #000000;}
+
+
+section{float: left;width: 48%;height: 1365px; margin: 1%;border: 2px solid red;}
+aside {float: left;;width: 47%;margin: 1%;border: 1px solid red; height: 1367px}
+footer {clear:both;}
+
+.icono {position: fixed;top: 75%;right: 1%}
+.descarga {text-align: right;}
